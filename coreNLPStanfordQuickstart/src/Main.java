@@ -5,6 +5,11 @@ import edu.stanford.nlp.semgraph.*;
 import edu.stanford.nlp.trees.*;
 import java.util.*;
 
+
+//Keep running out of memory, probably should get
+//a better laptop.
+//Also starting to wonder how memory consious the writers
+//were
 public class Main {
 
     public static String text = "Joe Smith was born in California. " +
