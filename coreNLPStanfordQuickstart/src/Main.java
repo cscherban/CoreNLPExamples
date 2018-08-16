@@ -1,5 +1,3 @@
-package com.scherban.chris;
-
 import edu.stanford.nlp.ling.*;
 import edu.stanford.nlp.ie.util.*;
 import edu.stanford.nlp.pipeline.*;
