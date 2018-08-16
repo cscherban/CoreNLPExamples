@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/coreNLPHelloWorld/coreNLPHelloWorld.iml" filepath="$PROJECT_DIR$/coreNLPHelloWorld/coreNLPHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coreNLPStanfordQuickstart/coreNLPStanfordQuickstart.iml" filepath="$PROJECT_DIR$/coreNLPStanfordQuickstart/coreNLPStanfordQuickstart.iml" />
+    </modules>
+  </component>
+</project>
